@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- MainActivity -->
+    <string name="app_name">Demo</string>
+    <string name="main_button1_show">进入</string>
+    <string name="main_button2_show">关于</string>
+    <string name="main_text_show">Demo</string>
+    <string name="image_home">HomeShow</string>
+
+    <!-- Key -->
+    <string name="exhaust_level">EXHAUST_LEVEL</string>
+    <string name="social_level">SOCIAL_LEVEL</string>
+    <string name="shared_name">SHARED</string>
+
+    <!-- DetailActivity-->
+    <string name="detail_text_exhaust">exhaust</string>
+    <string name="detail_text_social">social</string>
+    <string name="detail_sub_text_exhaust">疲惫等级</string>
+    <string name="detail_sub_text_social">素质等级</string>
+    <string name="detail_enter_action">开始</string>
+
+
+</resources>
